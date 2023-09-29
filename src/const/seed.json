@@ -1,0 +1,2572 @@
+[
+  {
+    "savings": [
+      {
+        "id": "20262f78-9bf2-4531-86a2-56ce4dbeccc7",
+        "amount": 74654,
+        "saving_date": "2023-09-28T23:29:30.402Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-28T14:23:27.390Z",
+        "updated_at": "2023-09-28T11:45:48.999Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3a7212b-1bcb-4639-87f5-c0b2b89f3a38",
+        "amount": 9702,
+        "saving_date": "2023-09-29T08:40:55.989Z",
+        "purpose": "Education",
+        "created_at": "2023-09-29T09:37:05.235Z",
+        "updated_at": "2023-09-29T06:04:01.907Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "128f47b2-ecd2-427c-b867-f092f4c5f881",
+        "amount": 42050,
+        "saving_date": "2023-09-28T10:37:23.410Z",
+        "purpose": "Vacation",
+        "created_at": "2023-09-28T15:50:02.957Z",
+        "updated_at": "2023-09-28T11:50:01.003Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0bf53169-6f32-495d-a405-e54729fcb16e",
+        "amount": 87973,
+        "saving_date": "2023-09-29T03:51:13.647Z",
+        "purpose": "Emergency",
+        "created_at": "2023-09-28T18:56:32.440Z",
+        "updated_at": "2023-09-28T21:15:14.387Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e145458-34d0-4320-bbb0-1b613b65923c",
+        "amount": 48710,
+        "saving_date": "2023-09-29T03:34:56.109Z",
+        "purpose": "Home purchase",
+        "created_at": "2023-09-28T12:41:06.565Z",
+        "updated_at": "2023-09-29T03:55:04.226Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "c91084fc-bd08-4a16-a68c-e155da0f0191",
+        "amount": 39342,
+        "source": "Salary",
+        "income_date": "2023-09-28T15:40:53.958Z",
+        "created_at": "2023-09-28T12:44:35.576Z",
+        "updated_at": "2023-09-28T10:41:36.574Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a66305e-2132-47cc-9ea6-121e8c1cb0da",
+        "amount": 77332,
+        "source": "Investments",
+        "income_date": "2023-09-29T08:26:56.747Z",
+        "created_at": "2023-09-28T13:23:35.196Z",
+        "updated_at": "2023-09-28T18:25:07.980Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec0626df-61eb-47d0-beae-0e7fa7cdb121",
+        "amount": 92565,
+        "source": "Rental property",
+        "income_date": "2023-09-28T15:14:43.962Z",
+        "created_at": "2023-09-28T15:03:38.557Z",
+        "updated_at": "2023-09-29T03:58:28.840Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c129d0d8-bd8d-4b41-b5b8-ba45823ca02e",
+        "amount": 54551,
+        "source": "Freelancing",
+        "income_date": "2023-09-28T17:55:57.435Z",
+        "created_at": "2023-09-29T06:06:45.115Z",
+        "updated_at": "2023-09-28T22:52:43.809Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab866be6-95e7-43ce-b51a-5c6836cdc04e",
+        "amount": 96671,
+        "source": "Business",
+        "income_date": "2023-09-28T13:49:07.362Z",
+        "created_at": "2023-09-28T23:29:26.415Z",
+        "updated_at": "2023-09-29T05:23:09.617Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "f2ae8a13-8c3a-4518-9172-b2520b0e0d03",
+        "amount": 72418,
+        "reason": "Groceries",
+        "expense_date": "2023-09-28T22:35:29.982Z",
+        "created_at": "2023-09-28T19:09:32.701Z",
+        "updated_at": "2023-09-28T15:57:20.825Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "74e7faef-e159-49be-8ded-d2d441cb7fc8",
+        "amount": 24886,
+        "reason": "Rent",
+        "expense_date": "2023-09-28T15:28:42.137Z",
+        "created_at": "2023-09-29T09:15:21.884Z",
+        "updated_at": "2023-09-28T12:21:35.665Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9fa9eea7-9d5e-41b4-ad45-da38b68f7dde",
+        "amount": 66687,
+        "reason": "Utilities",
+        "expense_date": "2023-09-29T07:42:24.978Z",
+        "created_at": "2023-09-28T11:15:57.971Z",
+        "updated_at": "2023-09-28T12:51:29.937Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d08f69e4-35a6-43f7-9893-4d2d9d5b6e0c",
+        "amount": 65131,
+        "reason": "Dining out",
+        "expense_date": "2023-09-28T14:19:04.965Z",
+        "created_at": "2023-09-28T14:36:47.765Z",
+        "updated_at": "2023-09-28T16:43:45.308Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "858de7f1-972b-44fb-accb-99aee16f506b",
+        "amount": 77553,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-28T20:18:48.294Z",
+        "created_at": "2023-09-29T02:30:36.240Z",
+        "updated_at": "2023-09-28T22:12:13.954Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "7b8252e5-8387-40c0-bcde-70122cefbb0c",
+        "amount": 29413,
+        "start_date": "2023-09-29T01:24:26.023Z",
+        "end_date": "2023-09-29T01:49:42.269Z",
+        "created_at": "2023-09-29T08:48:38.954Z",
+        "updated_at": "2023-09-29T00:44:08.664Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa9692b0-7672-452a-8162-618288c2ebdb",
+        "amount": 18995,
+        "start_date": "2023-09-29T02:27:52.893Z",
+        "end_date": "2023-09-28T21:34:19.267Z",
+        "created_at": "2023-09-28T12:59:24.088Z",
+        "updated_at": "2023-09-28T12:45:04.048Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dddb467e-c215-4c02-a78c-d6e652b5b908",
+        "amount": 75884,
+        "start_date": "2023-09-28T11:06:19.977Z",
+        "end_date": "2023-09-28T18:03:39.617Z",
+        "created_at": "2023-09-28T22:13:06.270Z",
+        "updated_at": "2023-09-28T14:16:14.023Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "43d25b5a-7f87-43ac-b6f2-2364c20cfa34",
+        "amount": 94124,
+        "start_date": "2023-09-28T18:30:46.315Z",
+        "end_date": "2023-09-28T20:25:53.103Z",
+        "created_at": "2023-09-28T14:50:50.674Z",
+        "updated_at": "2023-09-28T17:51:13.314Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7b6055c2-3a6e-4f03-92c2-48971a6739b7",
+        "amount": 61669,
+        "start_date": "2023-09-28T17:18:13.907Z",
+        "end_date": "2023-09-28T19:55:26.658Z",
+        "created_at": "2023-09-29T02:44:17.768Z",
+        "updated_at": "2023-09-28T12:04:26.455Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2628e909-693d-4641-a717-51968c00e6af",
+        "email": "Betty72@roq.tech",
+        "firstName": "Janice",
+        "lastName": "Wiza",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92447011",
+        "tenantId": null
+      },
+      {
+        "reference": "f5330613-6f09-47ca-94cf-b285540b5b3a",
+        "email": "Valentine_Windler@roq.tech",
+        "firstName": "Esmeralda",
+        "lastName": "Hills",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90883126",
+        "tenantId": null
+      },
+      {
+        "reference": "6db402e3-7df0-4902-9db0-b4a5ce23d014",
+        "email": "Lucy.Ernser@roq.tech",
+        "firstName": "Eldred",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92493587",
+        "tenantId": null
+      },
+      {
+        "reference": "34a35c7d-faa1-455f-925a-646477a17140",
+        "email": "Wilma.Roob@roq.tech",
+        "firstName": "Dolores",
+        "lastName": "Wisoky",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/641.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "60cd862d-dbf2-416d-ac3e-2a983c100ca4",
+        "email": "Helena.Christiansen@roq.tech",
+        "firstName": "Dane",
+        "lastName": "Pollich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/240.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "a720aa33-bb1b-4002-a953-5f2b76a57827",
+        "amount": 41128,
+        "saving_date": "2023-09-28T17:05:04.772Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-28T13:12:08.452Z",
+        "updated_at": "2023-09-28T16:06:58.260Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "178e088f-a68a-4a4f-b488-92e2ac4e2043",
+        "amount": 37167,
+        "saving_date": "2023-09-29T02:11:53.255Z",
+        "purpose": "Education",
+        "created_at": "2023-09-29T07:13:59.055Z",
+        "updated_at": "2023-09-28T23:32:45.264Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "401d9b4d-521f-4307-8ad4-3d770bb0e96b",
+        "amount": 84313,
+        "saving_date": "2023-09-29T06:19:14.013Z",
+        "purpose": "Vacation",
+        "created_at": "2023-09-29T01:42:59.369Z",
+        "updated_at": "2023-09-29T02:43:26.341Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e709f6b3-25a0-490f-b9ae-3ebf8e3cfc58",
+        "amount": 18072,
+        "saving_date": "2023-09-28T13:08:10.331Z",
+        "purpose": "Emergency",
+        "created_at": "2023-09-28T11:06:17.813Z",
+        "updated_at": "2023-09-29T06:46:15.867Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb9966eb-392f-48bc-bb1c-76f50de61062",
+        "amount": 92829,
+        "saving_date": "2023-09-29T00:25:59.908Z",
+        "purpose": "Home",
+        "created_at": "2023-09-28T17:44:38.566Z",
+        "updated_at": "2023-09-29T03:41:05.173Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "06a4d529-711f-427a-9731-89a4709eb208",
+        "amount": 59707,
+        "source": "Salary",
+        "income_date": "2023-09-28T17:17:20.012Z",
+        "created_at": "2023-09-28T23:07:30.876Z",
+        "updated_at": "2023-09-28T20:32:10.857Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06b0c04c-65b0-4a46-b14d-fab59e042b34",
+        "amount": 54398,
+        "source": "Business",
+        "income_date": "2023-09-29T07:03:38.817Z",
+        "created_at": "2023-09-28T13:39:52.216Z",
+        "updated_at": "2023-09-29T06:15:02.784Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "669d0de3-3d98-4204-a845-315b954125ec",
+        "amount": 31337,
+        "source": "Investments",
+        "income_date": "2023-09-28T23:10:26.354Z",
+        "created_at": "2023-09-29T05:51:48.627Z",
+        "updated_at": "2023-09-28T18:10:04.577Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "743d3740-f124-4a4d-bab4-308b1f267949",
+        "amount": 97014,
+        "source": "Rent",
+        "income_date": "2023-09-29T00:00:40.443Z",
+        "created_at": "2023-09-28T16:43:22.815Z",
+        "updated_at": "2023-09-28T19:01:13.872Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b371a29-5b60-4593-9f06-e0769843c4d3",
+        "amount": 43062,
+        "source": "Freelancing",
+        "income_date": "2023-09-28T22:51:00.052Z",
+        "created_at": "2023-09-29T04:00:03.753Z",
+        "updated_at": "2023-09-28T15:41:55.264Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "84175b40-5c97-423e-988a-f1defa054dc7",
+        "amount": 59296,
+        "reason": "Groceries",
+        "expense_date": "2023-09-28T12:36:33.488Z",
+        "created_at": "2023-09-28T10:35:12.493Z",
+        "updated_at": "2023-09-28T11:12:02.804Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68270b60-d959-4d83-bde5-4b59a42eda46",
+        "amount": 19385,
+        "reason": "Utilities",
+        "expense_date": "2023-09-29T09:36:07.439Z",
+        "created_at": "2023-09-28T17:50:36.116Z",
+        "updated_at": "2023-09-29T05:16:00.119Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e83098d1-961a-4aca-99bd-bf634151063e",
+        "amount": 9753,
+        "reason": "Transportation",
+        "expense_date": "2023-09-29T08:17:30.343Z",
+        "created_at": "2023-09-28T15:40:44.360Z",
+        "updated_at": "2023-09-29T02:32:03.687Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af2c51f9-1ab4-4fa0-98d4-8f910042bf26",
+        "amount": 34535,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-29T09:40:05.747Z",
+        "created_at": "2023-09-29T10:00:09.526Z",
+        "updated_at": "2023-09-28T12:59:45.788Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e29ae46-0171-4e24-8ac0-51f522d87fe1",
+        "amount": 72049,
+        "reason": "Healthcare",
+        "expense_date": "2023-09-29T02:07:19.146Z",
+        "created_at": "2023-09-28T10:39:50.735Z",
+        "updated_at": "2023-09-28T15:17:47.055Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "0af30a75-bdae-48a4-b083-0fec7b3a6aa6",
+        "amount": 86846,
+        "start_date": "2023-09-29T01:07:47.314Z",
+        "end_date": "2023-09-28T15:36:53.384Z",
+        "created_at": "2023-09-29T00:16:40.306Z",
+        "updated_at": "2023-09-28T20:45:55.793Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7289e311-1be4-4813-9277-9cd801b687df",
+        "amount": 79808,
+        "start_date": "2023-09-28T10:45:48.822Z",
+        "end_date": "2023-09-28T15:02:12.949Z",
+        "created_at": "2023-09-29T06:31:22.269Z",
+        "updated_at": "2023-09-28T14:58:32.817Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd4cf616-f0ee-4c1c-b92b-062702abd579",
+        "amount": 87974,
+        "start_date": "2023-09-29T02:51:38.045Z",
+        "end_date": "2023-09-28T16:34:28.141Z",
+        "created_at": "2023-09-28T21:47:20.943Z",
+        "updated_at": "2023-09-28T13:08:54.510Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3fe22454-7500-4252-ac67-6aac678423b8",
+        "amount": 96806,
+        "start_date": "2023-09-29T02:02:12.516Z",
+        "end_date": "2023-09-29T06:12:34.615Z",
+        "created_at": "2023-09-29T06:40:12.407Z",
+        "updated_at": "2023-09-28T21:08:40.836Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26ab7fc6-c077-495c-afff-4288151111c8",
+        "amount": 89354,
+        "start_date": "2023-09-28T18:30:15.286Z",
+        "end_date": "2023-09-28T23:46:16.852Z",
+        "created_at": "2023-09-28T16:59:21.625Z",
+        "updated_at": "2023-09-28T19:44:52.391Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3f854609-2f35-405d-997d-d6a31d4fa543",
+        "email": "Maxie_Stamm@roq.tech",
+        "firstName": "Talon",
+        "lastName": "Sipes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/316.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2369f4de-c731-4804-a0a3-cccdd36d168a",
+        "email": "Marta.Crona15@roq.tech",
+        "firstName": "Harmon",
+        "lastName": "Doyle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20682652",
+        "tenantId": null
+      },
+      {
+        "reference": "e3c033d6-8390-4e48-8a26-662d1ebb6edd",
+        "email": "Hanna25@roq.tech",
+        "firstName": "Adrian",
+        "lastName": "Lowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/398.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3518c766-6ff3-4ed2-a732-d79ab863b3f3",
+        "email": "Madyson_Emmerich74@roq.tech",
+        "firstName": "Jack",
+        "lastName": "Kautzer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85950363",
+        "tenantId": null
+      },
+      {
+        "reference": "e75f51f3-7c07-4b2e-8ad4-3809090a6d6b",
+        "email": "Abigale80@roq.tech",
+        "firstName": "Aidan",
+        "lastName": "Leannon",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/752.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "925122cc-0a57-471c-8839-9d6f64e0cbcd",
+        "amount": 93145,
+        "saving_date": "2023-09-28T18:15:16.989Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-29T10:01:43.403Z",
+        "updated_at": "2023-09-29T07:56:06.942Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f90eaf9e-1dc9-4a5c-8551-7d41ed23efc1",
+        "amount": 22567,
+        "saving_date": "2023-09-28T13:52:52.500Z",
+        "purpose": "Education",
+        "created_at": "2023-09-28T13:20:35.829Z",
+        "updated_at": "2023-09-28T15:35:48.122Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e64e70f-fe09-41f9-b66f-19c9000f2713",
+        "amount": 83802,
+        "saving_date": "2023-09-29T06:57:05.766Z",
+        "purpose": "Travel",
+        "created_at": "2023-09-28T15:59:21.201Z",
+        "updated_at": "2023-09-29T08:30:56.108Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c78a81a0-2721-4c90-a957-8777ef930f07",
+        "amount": 16715,
+        "saving_date": "2023-09-28T10:58:15.666Z",
+        "purpose": "Emergency",
+        "created_at": "2023-09-28T12:10:31.089Z",
+        "updated_at": "2023-09-28T19:25:00.542Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f87c83ba-739f-43d0-9577-1fb4373f4486",
+        "amount": 84529,
+        "saving_date": "2023-09-28T12:38:15.726Z",
+        "purpose": "Home",
+        "created_at": "2023-09-29T01:04:13.613Z",
+        "updated_at": "2023-09-28T16:21:03.048Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "dfdab96b-e563-4f04-9a94-ce582834ea72",
+        "amount": 7724,
+        "source": "Salary",
+        "income_date": "2023-09-28T13:49:01.514Z",
+        "created_at": "2023-09-29T02:06:17.427Z",
+        "updated_at": "2023-09-28T15:16:50.754Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b0b0e4e-9532-40f9-a37d-c84cf247db34",
+        "amount": 40863,
+        "source": "Business",
+        "income_date": "2023-09-28T12:25:17.887Z",
+        "created_at": "2023-09-29T09:11:55.670Z",
+        "updated_at": "2023-09-28T15:34:56.740Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29029eb2-da81-4671-af91-305dbe2286d1",
+        "amount": 47927,
+        "source": "Investments",
+        "income_date": "2023-09-28T14:03:00.874Z",
+        "created_at": "2023-09-29T09:20:18.262Z",
+        "updated_at": "2023-09-29T10:28:50.737Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0fc4538-d5b6-4b4c-98c2-d0737f1ab2dd",
+        "amount": 48513,
+        "source": "Rental Property",
+        "income_date": "2023-09-28T12:07:27.012Z",
+        "created_at": "2023-09-28T22:34:36.295Z",
+        "updated_at": "2023-09-28T22:13:35.929Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "03d5f23e-794f-4c27-b472-774bebc3379f",
+        "amount": 33034,
+        "source": "Freelancing",
+        "income_date": "2023-09-29T05:35:55.074Z",
+        "created_at": "2023-09-28T14:01:52.049Z",
+        "updated_at": "2023-09-28T19:23:46.165Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "43e0a368-6211-4020-8f47-2c3adfcced18",
+        "amount": 20178,
+        "reason": "Rent",
+        "expense_date": "2023-09-28T16:26:36.373Z",
+        "created_at": "2023-09-28T13:46:02.627Z",
+        "updated_at": "2023-09-28T13:31:19.171Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fb84ff0b-2cb8-417d-8dd5-a27bf80d2b46",
+        "amount": 23837,
+        "reason": "Groceries",
+        "expense_date": "2023-09-28T21:26:18.229Z",
+        "created_at": "2023-09-28T17:58:43.752Z",
+        "updated_at": "2023-09-28T23:13:38.478Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df4f6815-1910-4feb-9804-287151c0a0bd",
+        "amount": 67253,
+        "reason": "Utilities",
+        "expense_date": "2023-09-28T23:38:27.984Z",
+        "created_at": "2023-09-28T16:37:03.189Z",
+        "updated_at": "2023-09-29T01:25:20.369Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9d901d9-b3ff-496f-bee3-4c35a6e5a77c",
+        "amount": 51850,
+        "reason": "Transportation",
+        "expense_date": "2023-09-28T17:36:58.475Z",
+        "created_at": "2023-09-28T20:37:45.522Z",
+        "updated_at": "2023-09-28T23:21:21.259Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbf12ad2-f2fb-4c77-8456-b9274a7a52e7",
+        "amount": 89246,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-29T09:31:36.769Z",
+        "created_at": "2023-09-29T06:27:22.148Z",
+        "updated_at": "2023-09-29T04:39:26.576Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "681439ef-d8e4-4d71-abf8-d34f93176f39",
+        "amount": 52822,
+        "start_date": "2023-09-28T16:01:06.829Z",
+        "end_date": "2023-09-28T13:04:03.038Z",
+        "created_at": "2023-09-28T13:14:01.367Z",
+        "updated_at": "2023-09-29T04:40:11.571Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f959e89c-e110-4545-91a2-c170d4343468",
+        "amount": 78906,
+        "start_date": "2023-09-29T02:32:01.350Z",
+        "end_date": "2023-09-28T19:21:11.935Z",
+        "created_at": "2023-09-28T21:43:55.364Z",
+        "updated_at": "2023-09-28T16:19:43.385Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7fb104c2-7ba0-4b33-b657-11887c18aa51",
+        "amount": 10847,
+        "start_date": "2023-09-28T11:50:47.849Z",
+        "end_date": "2023-09-29T04:05:14.809Z",
+        "created_at": "2023-09-29T10:22:58.063Z",
+        "updated_at": "2023-09-28T20:50:42.509Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d43b769e-7c42-495b-bf6c-ca59a4d23bc2",
+        "amount": 30987,
+        "start_date": "2023-09-28T11:16:22.692Z",
+        "end_date": "2023-09-28T12:31:25.152Z",
+        "created_at": "2023-09-29T08:42:46.286Z",
+        "updated_at": "2023-09-29T10:09:52.869Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "883d469c-14fa-482b-9916-8cb2cebd28b4",
+        "amount": 53271,
+        "start_date": "2023-09-28T14:04:38.966Z",
+        "end_date": "2023-09-28T20:27:47.646Z",
+        "created_at": "2023-09-29T02:39:14.225Z",
+        "updated_at": "2023-09-29T08:00:19.499Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "64f34f3c-12ae-4f4c-a76c-d605eb2ceacc",
+        "email": "Palma.McCullough85@roq.tech",
+        "firstName": "Lily",
+        "lastName": "Durgan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33543646",
+        "tenantId": null
+      },
+      {
+        "reference": "b7279902-63dc-4266-be34-ed19bee03811",
+        "email": "Porter_Towne43@roq.tech",
+        "firstName": "Orrin",
+        "lastName": "Schowalter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/967.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "30ccea6e-d6df-43a3-b624-4a272d626f25",
+        "email": "Ocie94@roq.tech",
+        "firstName": "Moses",
+        "lastName": "Effertz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58339282",
+        "tenantId": null
+      },
+      {
+        "reference": "e55344b5-e251-45e4-bc57-e1c9174507db",
+        "email": "Larue25@roq.tech",
+        "firstName": "Frank",
+        "lastName": "Brakus",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27108052",
+        "tenantId": null
+      },
+      {
+        "reference": "595281b5-46c2-484c-ae36-100ea1526586",
+        "email": "Lelia52@roq.tech",
+        "firstName": "Manley",
+        "lastName": "Konopelski-Flatley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1027098",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "b51da384-a7e0-4d91-a4f6-b76a01fac36d",
+        "amount": 32153,
+        "saving_date": "2023-09-28T23:33:33.680Z",
+        "purpose": "Education",
+        "created_at": "2023-09-28T19:15:37.086Z",
+        "updated_at": "2023-09-28T16:49:35.551Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0ff8bb1-2363-4fa2-895a-127f3d9697c8",
+        "amount": 76396,
+        "saving_date": "2023-09-28T23:05:52.563Z",
+        "purpose": "Vacation",
+        "created_at": "2023-09-29T04:32:25.863Z",
+        "updated_at": "2023-09-29T06:50:06.031Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a15fe9eb-57cb-4b82-9e63-79c5ead63afb",
+        "amount": 54611,
+        "saving_date": "2023-09-29T04:49:45.672Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-28T18:12:43.543Z",
+        "updated_at": "2023-09-29T05:46:57.473Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f67f7611-251d-4194-ba2f-5a82c1ad798c",
+        "amount": 16484,
+        "saving_date": "2023-09-29T09:53:17.662Z",
+        "purpose": "Emergency fund",
+        "created_at": "2023-09-29T03:53:52.350Z",
+        "updated_at": "2023-09-29T10:32:19.498Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01f988bf-bbc8-4742-a0c7-2d5079a4516a",
+        "amount": 100,
+        "saving_date": "2023-09-29T06:53:16.271Z",
+        "purpose": "Home renovation",
+        "created_at": "2023-09-28T21:25:07.138Z",
+        "updated_at": "2023-09-29T04:20:49.738Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "555d7e41-5e28-4a6c-b240-81f21694c1ed",
+        "amount": 7386,
+        "source": "Salary",
+        "income_date": "2023-09-29T00:41:29.984Z",
+        "created_at": "2023-09-28T13:56:41.033Z",
+        "updated_at": "2023-09-29T02:58:12.078Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd62dd8d-e494-4a28-8a91-f78ccffc45b2",
+        "amount": 31470,
+        "source": "Investments",
+        "income_date": "2023-09-28T23:43:23.140Z",
+        "created_at": "2023-09-28T15:52:05.945Z",
+        "updated_at": "2023-09-29T09:49:40.927Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5bb41f7-c3e2-4ecf-8230-9a0307161b9c",
+        "amount": 19016,
+        "source": "Freelancing",
+        "income_date": "2023-09-28T17:21:07.731Z",
+        "created_at": "2023-09-29T02:44:16.215Z",
+        "updated_at": "2023-09-29T00:01:13.672Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "90c2c0f0-efa6-4d77-bfd3-0231dce5bae5",
+        "amount": 82744,
+        "source": "Rental income",
+        "income_date": "2023-09-29T02:25:46.372Z",
+        "created_at": "2023-09-28T14:43:10.816Z",
+        "updated_at": "2023-09-29T09:33:48.508Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f33cccc-675e-4c72-a96c-11521cbeb917",
+        "amount": 55279,
+        "source": "Business",
+        "income_date": "2023-09-28T23:18:36.251Z",
+        "created_at": "2023-09-28T10:45:02.945Z",
+        "updated_at": "2023-09-29T01:14:41.656Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "44a57687-fd15-4a2a-8797-8a14f3562bef",
+        "amount": 45402,
+        "reason": "Groceries",
+        "expense_date": "2023-09-28T12:38:16.910Z",
+        "created_at": "2023-09-29T01:08:08.207Z",
+        "updated_at": "2023-09-29T07:54:51.275Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2ced2500-2dcd-4e36-9ea5-42e81447af7f",
+        "amount": 81110,
+        "reason": "Rent",
+        "expense_date": "2023-09-29T09:02:08.256Z",
+        "created_at": "2023-09-28T14:46:51.494Z",
+        "updated_at": "2023-09-29T10:18:05.986Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f2b48f2-efc7-42fe-be16-b09f12a75cba",
+        "amount": 53922,
+        "reason": "Utilities",
+        "expense_date": "2023-09-28T11:27:43.525Z",
+        "created_at": "2023-09-29T00:57:54.225Z",
+        "updated_at": "2023-09-28T21:40:34.259Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "db85cf47-dff7-443d-8138-ae89c5fbe10f",
+        "amount": 41621,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-28T15:21:57.685Z",
+        "created_at": "2023-09-29T00:41:44.954Z",
+        "updated_at": "2023-09-28T12:00:16.992Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6c85e52a-9270-438e-a7be-019a8ca3bc93",
+        "amount": 63316,
+        "reason": "Transportation",
+        "expense_date": "2023-09-29T09:58:50.550Z",
+        "created_at": "2023-09-28T19:07:47.381Z",
+        "updated_at": "2023-09-29T00:39:32.749Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "ea62908d-3eee-47f9-b81d-75f8b51e4057",
+        "amount": 29786,
+        "start_date": "2023-09-28T17:58:46.286Z",
+        "end_date": "2023-09-28T10:58:54.266Z",
+        "created_at": "2023-09-29T05:30:41.649Z",
+        "updated_at": "2023-09-28T16:03:48.085Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1efc1577-6545-4e8f-a530-1b4c62319d64",
+        "amount": 38374,
+        "start_date": "2023-09-28T18:27:21.535Z",
+        "end_date": "2023-09-29T05:34:08.123Z",
+        "created_at": "2023-09-28T20:16:57.137Z",
+        "updated_at": "2023-09-28T11:44:11.591Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b989d68d-d1b5-4faa-b7a0-de290cd4daec",
+        "amount": 72870,
+        "start_date": "2023-09-29T00:37:36.599Z",
+        "end_date": "2023-09-28T22:10:30.714Z",
+        "created_at": "2023-09-28T16:52:51.757Z",
+        "updated_at": "2023-09-29T05:43:01.938Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "077cacaa-dc7d-420e-88e1-a366e680c166",
+        "amount": 3883,
+        "start_date": "2023-09-28T16:07:45.631Z",
+        "end_date": "2023-09-28T11:39:16.894Z",
+        "created_at": "2023-09-28T20:49:33.982Z",
+        "updated_at": "2023-09-28T11:48:59.506Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8d101a96-7f7f-4669-9dee-03a903715d0f",
+        "amount": 72467,
+        "start_date": "2023-09-28T19:00:57.151Z",
+        "end_date": "2023-09-29T06:46:17.930Z",
+        "created_at": "2023-09-28T20:53:05.034Z",
+        "updated_at": "2023-09-29T08:51:10.105Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "14dce739-6bb0-4f35-99c1-db3b7aba09dd",
+        "email": "Ofelia_Schiller87@roq.tech",
+        "firstName": "Ryder",
+        "lastName": "Klocko",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67508871",
+        "tenantId": null
+      },
+      {
+        "reference": "a8e1489c-77c0-4a2f-aeff-89edb4ae3e31",
+        "email": "Glen.Luettgen@roq.tech",
+        "firstName": "Summer",
+        "lastName": "Boehm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54028490",
+        "tenantId": null
+      },
+      {
+        "reference": "928481ce-3b61-4234-acb5-c777362736f0",
+        "email": "Miller_Collier@roq.tech",
+        "firstName": "Stanton",
+        "lastName": "Gusikowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5348213",
+        "tenantId": null
+      },
+      {
+        "reference": "44fe6245-f760-4f4d-86f5-b23b3d614d5c",
+        "email": "Archibald64@roq.tech",
+        "firstName": "Alaina",
+        "lastName": "Raynor",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1215.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fef47c8b-1348-46ac-96b5-85d363d8d52d",
+        "email": "Triston_Paucek@roq.tech",
+        "firstName": "Gisselle",
+        "lastName": "Stroman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/272.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "a8c31d9d-b05e-4d6e-9541-c748553d8ee1",
+        "amount": 74606,
+        "saving_date": "2023-09-29T01:51:57.247Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-28T16:37:44.391Z",
+        "updated_at": "2023-09-28T19:28:12.333Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2492f545-038f-463f-a84a-2b99151b0858",
+        "amount": 66851,
+        "saving_date": "2023-09-29T05:59:51.530Z",
+        "purpose": "Education",
+        "created_at": "2023-09-29T02:49:52.240Z",
+        "updated_at": "2023-09-29T05:26:06.059Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6245b2f9-ad9b-4f15-a906-572a92fcc168",
+        "amount": 21219,
+        "saving_date": "2023-09-28T12:27:06.194Z",
+        "purpose": "Vacation",
+        "created_at": "2023-09-29T02:52:45.956Z",
+        "updated_at": "2023-09-28T18:54:07.480Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4235ab83-5d83-41d4-bfb9-8da470ae162b",
+        "amount": 2584,
+        "saving_date": "2023-09-28T20:17:40.172Z",
+        "purpose": "Emergency",
+        "created_at": "2023-09-29T01:51:47.724Z",
+        "updated_at": "2023-09-28T12:27:18.458Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff6348b2-0f65-4fc4-a991-a0a55050111c",
+        "amount": 56492,
+        "saving_date": "2023-09-29T08:57:24.952Z",
+        "purpose": "Home",
+        "created_at": "2023-09-29T01:04:51.137Z",
+        "updated_at": "2023-09-28T19:22:20.388Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "78c5c681-dcee-4f2f-bff4-8aa2f8aa43b7",
+        "amount": 11575,
+        "source": "Salary",
+        "income_date": "2023-09-28T16:26:52.107Z",
+        "created_at": "2023-09-28T20:32:48.228Z",
+        "updated_at": "2023-09-28T15:54:03.277Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20027c8e-214f-4d31-ae4c-607753e21914",
+        "amount": 62594,
+        "source": "Business",
+        "income_date": "2023-09-28T20:57:25.914Z",
+        "created_at": "2023-09-28T20:03:10.743Z",
+        "updated_at": "2023-09-28T13:15:13.868Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0217a08d-ca44-4330-848d-14d68fc33c5c",
+        "amount": 83874,
+        "source": "Investments",
+        "income_date": "2023-09-28T14:42:16.791Z",
+        "created_at": "2023-09-28T19:58:49.661Z",
+        "updated_at": "2023-09-28T11:02:29.107Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38a70add-ccd6-4248-bfd7-c918c81342db",
+        "amount": 12059,
+        "source": "Rent",
+        "income_date": "2023-09-29T09:17:21.744Z",
+        "created_at": "2023-09-29T02:28:05.637Z",
+        "updated_at": "2023-09-29T01:55:27.261Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62443749-0d0c-42f8-a18b-8336796ef4f4",
+        "amount": 9085,
+        "source": "Freelancing",
+        "income_date": "2023-09-29T02:52:49.691Z",
+        "created_at": "2023-09-29T03:52:26.366Z",
+        "updated_at": "2023-09-29T00:32:23.917Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "add9c5ea-6690-4673-b8e0-c57438a45d21",
+        "amount": 21156,
+        "reason": "Groceries",
+        "expense_date": "2023-09-28T20:23:31.221Z",
+        "created_at": "2023-09-28T13:22:34.130Z",
+        "updated_at": "2023-09-28T17:48:03.531Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8eed7cdf-0543-4e79-81fb-979de91d8088",
+        "amount": 54649,
+        "reason": "Utilities",
+        "expense_date": "2023-09-28T22:49:00.580Z",
+        "created_at": "2023-09-28T14:29:55.561Z",
+        "updated_at": "2023-09-29T08:59:08.959Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3abdf919-ecd6-494d-89bd-1850b08a3487",
+        "amount": 28324,
+        "reason": "Rent",
+        "expense_date": "2023-09-29T08:33:14.046Z",
+        "created_at": "2023-09-29T00:26:09.413Z",
+        "updated_at": "2023-09-28T23:39:03.189Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b71acf95-edc5-4dfd-a4c3-eced26c1ae7e",
+        "amount": 99040,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-28T21:36:20.655Z",
+        "created_at": "2023-09-28T21:05:23.841Z",
+        "updated_at": "2023-09-29T08:11:10.917Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c942df4-3b5b-47fa-9223-e0501272159a",
+        "amount": 71131,
+        "reason": "Transportation",
+        "expense_date": "2023-09-29T08:32:24.307Z",
+        "created_at": "2023-09-28T23:21:12.302Z",
+        "updated_at": "2023-09-28T23:29:36.100Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "7499e3b3-8d81-4a50-90dd-532f2dec799e",
+        "amount": 96246,
+        "start_date": "2023-09-28T16:42:40.027Z",
+        "end_date": "2023-09-28T11:22:38.228Z",
+        "created_at": "2023-09-28T17:44:35.353Z",
+        "updated_at": "2023-09-28T14:59:32.124Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "468981c2-03f5-4b20-b7b7-124125efc44a",
+        "amount": 95841,
+        "start_date": "2023-09-28T19:53:02.347Z",
+        "end_date": "2023-09-29T06:25:37.018Z",
+        "created_at": "2023-09-28T18:54:37.372Z",
+        "updated_at": "2023-09-28T14:59:10.948Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64c7101c-2d93-4485-ac0c-387224ce879c",
+        "amount": 10484,
+        "start_date": "2023-09-29T06:28:51.473Z",
+        "end_date": "2023-09-28T20:46:33.791Z",
+        "created_at": "2023-09-29T08:31:49.929Z",
+        "updated_at": "2023-09-28T19:11:18.566Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54f391c1-a6f8-4af0-9f2f-579c7f774bcc",
+        "amount": 94982,
+        "start_date": "2023-09-28T21:04:05.893Z",
+        "end_date": "2023-09-28T21:31:06.076Z",
+        "created_at": "2023-09-28T12:22:51.478Z",
+        "updated_at": "2023-09-29T07:04:05.564Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9defa6d-6d1b-43a5-9dd3-e500d6e42c27",
+        "amount": 10831,
+        "start_date": "2023-09-29T04:28:57.259Z",
+        "end_date": "2023-09-28T14:01:49.433Z",
+        "created_at": "2023-09-28T15:51:56.105Z",
+        "updated_at": "2023-09-28T13:43:55.787Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "045d1035-ad32-4e3d-ae66-46b7d8aa5a5e",
+        "email": "Karianne78@roq.tech",
+        "firstName": "Christophe",
+        "lastName": "Koelpin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91080262",
+        "tenantId": null
+      },
+      {
+        "reference": "ec076630-3262-4bcb-98bb-f386ac05ed24",
+        "email": "Travon_Bailey14@roq.tech",
+        "firstName": "Johan",
+        "lastName": "Botsford",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/93.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8c3a4462-aa05-4cf3-a476-18c1a222540f",
+        "email": "Madie_Anderson@roq.tech",
+        "firstName": "Paris",
+        "lastName": "Watsica",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/461.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e96b9099-1524-4ae4-b259-b61611732c15",
+        "email": "Darrick49@roq.tech",
+        "firstName": "Gerda",
+        "lastName": "Bergnaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/218.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9d0a6894-a5fe-48af-8d51-075f067b3245",
+        "email": "Hollie27@roq.tech",
+        "firstName": "Tomas",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69909777",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "f6d7143c-12ab-4640-b34f-228677850c53",
+        "amount": 27929,
+        "saving_date": "2023-09-28T22:00:47.714Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-28T11:35:06.568Z",
+        "updated_at": "2023-09-29T03:43:25.254Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e1ddd96-ae3d-4b6c-bfc3-e3c39b911d80",
+        "amount": 4345,
+        "saving_date": "2023-09-29T05:32:10.427Z",
+        "purpose": "Education",
+        "created_at": "2023-09-29T07:04:51.115Z",
+        "updated_at": "2023-09-28T23:18:12.809Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a857d0c9-7a2e-4d6b-80b9-0fddb51e013e",
+        "amount": 76389,
+        "saving_date": "2023-09-29T06:50:28.705Z",
+        "purpose": "Vacation",
+        "created_at": "2023-09-28T14:55:36.730Z",
+        "updated_at": "2023-09-29T01:47:15.769Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87434626-2386-4a4f-a979-976a4fad0cf2",
+        "amount": 88894,
+        "saving_date": "2023-09-28T20:55:05.916Z",
+        "purpose": "Emergency Fund",
+        "created_at": "2023-09-29T03:31:58.144Z",
+        "updated_at": "2023-09-28T22:54:14.893Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f41560d1-22d9-425d-8158-3767050050d9",
+        "amount": 8936,
+        "saving_date": "2023-09-28T21:01:35.381Z",
+        "purpose": "Home Renovation",
+        "created_at": "2023-09-29T09:52:19.630Z",
+        "updated_at": "2023-09-29T07:39:31.783Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "b57466c8-aaed-4c90-912e-fdadb90cfd61",
+        "amount": 69288,
+        "source": "Salary",
+        "income_date": "2023-09-28T14:50:18.488Z",
+        "created_at": "2023-09-29T08:21:08.308Z",
+        "updated_at": "2023-09-28T16:11:21.507Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd977c0f-26f3-40d8-b55b-60f246ce7184",
+        "amount": 74102,
+        "source": "Freelancing",
+        "income_date": "2023-09-29T03:40:35.040Z",
+        "created_at": "2023-09-28T18:49:39.555Z",
+        "updated_at": "2023-09-29T00:14:10.025Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "012ae136-08c9-415c-9c80-ff4fd8d38bb2",
+        "amount": 18705,
+        "source": "Investments",
+        "income_date": "2023-09-29T08:04:23.026Z",
+        "created_at": "2023-09-29T00:17:50.766Z",
+        "updated_at": "2023-09-28T21:59:18.377Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e492752e-02e6-4b96-b95b-73b4540fe610",
+        "amount": 42915,
+        "source": "Rental Income",
+        "income_date": "2023-09-29T08:24:49.112Z",
+        "created_at": "2023-09-28T15:26:36.133Z",
+        "updated_at": "2023-09-28T23:30:03.673Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "83bb1af8-8969-4e4f-a450-c4de958554c9",
+        "amount": 69055,
+        "source": "Business",
+        "income_date": "2023-09-28T22:40:15.877Z",
+        "created_at": "2023-09-29T06:14:33.735Z",
+        "updated_at": "2023-09-28T13:51:58.238Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "cadb60ff-4579-453e-9074-ad96b09120bb",
+        "amount": 66719,
+        "reason": "Groceries",
+        "expense_date": "2023-09-28T20:26:07.538Z",
+        "created_at": "2023-09-28T13:11:41.378Z",
+        "updated_at": "2023-09-29T06:42:40.887Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "165f3f57-6195-4530-8ac4-97c661b2c6cb",
+        "amount": 65604,
+        "reason": "Rent",
+        "expense_date": "2023-09-28T19:10:14.704Z",
+        "created_at": "2023-09-28T17:46:36.896Z",
+        "updated_at": "2023-09-28T13:43:43.092Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de175e51-559e-4c2f-92e2-9f5dcd68c753",
+        "amount": 87721,
+        "reason": "Utilities",
+        "expense_date": "2023-09-29T04:51:31.582Z",
+        "created_at": "2023-09-28T22:16:03.137Z",
+        "updated_at": "2023-09-28T15:31:48.061Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "63853046-c684-4dc5-a621-2363b261a97f",
+        "amount": 97896,
+        "reason": "Transportation",
+        "expense_date": "2023-09-28T20:52:36.093Z",
+        "created_at": "2023-09-28T23:27:45.960Z",
+        "updated_at": "2023-09-28T21:00:59.353Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d52da802-76aa-4b07-b141-f4d1c1641d77",
+        "amount": 77576,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-28T18:43:34.031Z",
+        "created_at": "2023-09-29T09:24:06.959Z",
+        "updated_at": "2023-09-28T19:50:09.468Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "7bd58c3e-9cf9-46ca-b175-cd2a78a26ce1",
+        "amount": 12875,
+        "start_date": "2023-09-28T15:31:22.800Z",
+        "end_date": "2023-09-29T03:50:59.992Z",
+        "created_at": "2023-09-28T16:41:53.473Z",
+        "updated_at": "2023-09-29T05:13:58.233Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2befedcf-84b9-4f3a-801a-5789e1ca27e7",
+        "amount": 95497,
+        "start_date": "2023-09-29T07:37:26.705Z",
+        "end_date": "2023-09-28T19:26:02.694Z",
+        "created_at": "2023-09-29T10:23:30.388Z",
+        "updated_at": "2023-09-29T01:43:50.677Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1849b018-829a-43da-a78c-668157efcf34",
+        "amount": 51111,
+        "start_date": "2023-09-29T03:42:34.377Z",
+        "end_date": "2023-09-28T12:31:41.003Z",
+        "created_at": "2023-09-28T17:40:02.329Z",
+        "updated_at": "2023-09-28T20:33:26.773Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d2b56c4-a030-4042-a74d-4888eb9ae7a4",
+        "amount": 91574,
+        "start_date": "2023-09-29T02:32:50.990Z",
+        "end_date": "2023-09-28T14:53:17.907Z",
+        "created_at": "2023-09-28T20:30:37.275Z",
+        "updated_at": "2023-09-29T03:28:21.371Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a839b9b8-f28d-477e-928f-77482ea93c21",
+        "amount": 77686,
+        "start_date": "2023-09-29T09:22:43.509Z",
+        "end_date": "2023-09-29T09:35:12.017Z",
+        "created_at": "2023-09-29T07:58:26.795Z",
+        "updated_at": "2023-09-28T17:51:10.668Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "565fa950-2a4f-4dfb-9582-d853db311664",
+        "email": "Shanelle_Hartmann34@roq.tech",
+        "firstName": "Tyreek",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89974020",
+        "tenantId": null
+      },
+      {
+        "reference": "059b8438-6015-4663-8bc6-398ed9b31124",
+        "email": "Ignatius57@roq.tech",
+        "firstName": "Eryn",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1139.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "aa3b9c8f-14b1-4371-9329-e3cddbabd89e",
+        "email": "Amina_Oberbrunner@roq.tech",
+        "firstName": "Kelvin",
+        "lastName": "Sanford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25757059",
+        "tenantId": null
+      },
+      {
+        "reference": "4e9282f5-9306-4fa6-a636-b0627c3f9a6b",
+        "email": "Elfrieda84@roq.tech",
+        "firstName": "Randal",
+        "lastName": "Romaguera-Kuhic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/551.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7cd57381-2fce-4c29-bc3c-f5af155bb2d1",
+        "email": "Melisa.Sawayn@roq.tech",
+        "firstName": "Nat",
+        "lastName": "Jenkins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/372.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "75182281-290f-4061-b321-0d1cc6e94ae3",
+        "amount": 80083,
+        "saving_date": "2023-09-29T06:15:14.229Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-29T00:27:59.954Z",
+        "updated_at": "2023-09-28T20:43:31.068Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a79ec65a-abca-42d8-afdd-0fffd8bd5616",
+        "amount": 43286,
+        "saving_date": "2023-09-28T20:20:41.226Z",
+        "purpose": "Education",
+        "created_at": "2023-09-29T09:15:13.678Z",
+        "updated_at": "2023-09-28T12:18:27.599Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "74a1247d-19d2-4ee6-b7d0-91f5e79e3e29",
+        "amount": 30421,
+        "saving_date": "2023-09-28T22:10:47.983Z",
+        "purpose": "Vacation",
+        "created_at": "2023-09-29T07:09:17.580Z",
+        "updated_at": "2023-09-29T08:59:16.576Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9b61009-b590-4bd9-b943-926b1d567ea0",
+        "amount": 52498,
+        "saving_date": "2023-09-29T05:04:31.492Z",
+        "purpose": "Emergency Fund",
+        "created_at": "2023-09-29T02:45:22.352Z",
+        "updated_at": "2023-09-28T13:17:21.513Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf2aecec-d351-4341-9554-807490cb443c",
+        "amount": 71867,
+        "saving_date": "2023-09-29T08:48:50.709Z",
+        "purpose": "Home Renovation",
+        "created_at": "2023-09-28T11:52:38.420Z",
+        "updated_at": "2023-09-28T21:05:35.379Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "7a06145f-c5fa-4d86-a110-d93b24a4159a",
+        "amount": 65396,
+        "source": "Salary",
+        "income_date": "2023-09-29T08:51:05.867Z",
+        "created_at": "2023-09-28T18:15:08.979Z",
+        "updated_at": "2023-09-28T14:08:59.981Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb7bffff-d78d-43d3-a393-cc28f243a690",
+        "amount": 64375,
+        "source": "Investments",
+        "income_date": "2023-09-29T01:06:24.262Z",
+        "created_at": "2023-09-29T09:34:19.149Z",
+        "updated_at": "2023-09-28T23:56:55.673Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "84e90681-e148-41bc-bd8a-5a3b77716518",
+        "amount": 47515,
+        "source": "Business",
+        "income_date": "2023-09-29T02:07:21.630Z",
+        "created_at": "2023-09-28T18:02:39.575Z",
+        "updated_at": "2023-09-29T09:17:13.661Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce22aef5-082f-40e9-9552-478796d414de",
+        "amount": 98871,
+        "source": "Rental Property",
+        "income_date": "2023-09-28T12:48:06.099Z",
+        "created_at": "2023-09-28T19:37:55.100Z",
+        "updated_at": "2023-09-28T14:27:15.271Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2366ed21-d5db-4b0d-8cce-220d3c79f004",
+        "amount": 36838,
+        "source": "Freelancing",
+        "income_date": "2023-09-29T01:58:39.825Z",
+        "created_at": "2023-09-28T12:40:44.031Z",
+        "updated_at": "2023-09-28T12:33:57.584Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "ac0334c4-0eca-4d93-ac16-23d8c90f9df9",
+        "amount": 91007,
+        "reason": "Groceries",
+        "expense_date": "2023-09-29T06:37:50.981Z",
+        "created_at": "2023-09-29T02:47:13.932Z",
+        "updated_at": "2023-09-28T23:24:23.263Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "186345a6-393b-4cd2-8cf6-e5852eb34065",
+        "amount": 54680,
+        "reason": "Utilities",
+        "expense_date": "2023-09-28T16:33:21.230Z",
+        "created_at": "2023-09-28T14:18:18.451Z",
+        "updated_at": "2023-09-29T06:05:01.637Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a054bdbc-e277-4c0b-ba18-c1de41a135c1",
+        "amount": 57719,
+        "reason": "Rent",
+        "expense_date": "2023-09-29T04:35:52.554Z",
+        "created_at": "2023-09-28T13:41:10.686Z",
+        "updated_at": "2023-09-29T06:54:40.026Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4085fdff-c8db-475c-8d64-27ae6e3b18db",
+        "amount": 10015,
+        "reason": "Transportation",
+        "expense_date": "2023-09-28T14:47:14.243Z",
+        "created_at": "2023-09-29T07:23:06.619Z",
+        "updated_at": "2023-09-28T21:05:02.769Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68eb627a-ca45-4051-9e0c-54f46f04f431",
+        "amount": 21689,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-29T02:44:13.778Z",
+        "created_at": "2023-09-28T13:52:40.538Z",
+        "updated_at": "2023-09-28T21:35:18.653Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "16c8d070-dd8c-4a66-8a5e-2471178ec1e4",
+        "amount": 5920,
+        "start_date": "2023-09-29T02:25:38.867Z",
+        "end_date": "2023-09-28T14:51:23.875Z",
+        "created_at": "2023-09-28T17:56:52.043Z",
+        "updated_at": "2023-09-28T10:38:10.596Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "439d54b9-da62-4885-902c-63f626fb3dc9",
+        "amount": 99501,
+        "start_date": "2023-09-29T03:04:32.230Z",
+        "end_date": "2023-09-28T23:14:06.833Z",
+        "created_at": "2023-09-28T23:52:13.550Z",
+        "updated_at": "2023-09-29T08:14:34.457Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ee4c6ec-89e6-45c5-99d6-3f1bc53de7b4",
+        "amount": 30556,
+        "start_date": "2023-09-28T21:40:22.078Z",
+        "end_date": "2023-09-28T15:18:37.999Z",
+        "created_at": "2023-09-29T10:07:02.412Z",
+        "updated_at": "2023-09-29T02:37:02.409Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "124541f5-8801-4212-ba0e-bc0b7a174de7",
+        "amount": 20312,
+        "start_date": "2023-09-29T05:08:39.324Z",
+        "end_date": "2023-09-29T00:55:53.434Z",
+        "created_at": "2023-09-28T21:57:16.581Z",
+        "updated_at": "2023-09-28T14:42:47.247Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd50e264-9664-4fdc-8cab-db99b56bca82",
+        "amount": 25414,
+        "start_date": "2023-09-29T02:30:35.497Z",
+        "end_date": "2023-09-28T19:55:22.105Z",
+        "created_at": "2023-09-28T15:04:24.944Z",
+        "updated_at": "2023-09-28T13:01:05.034Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0ae2d790-f8c6-4c9a-b5ae-86ccc3a58c73",
+        "email": "Damion.Witting81@roq.tech",
+        "firstName": "Evie",
+        "lastName": "Kutch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/120.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fb3a6ef9-ff2b-40bc-a3ca-bf7e5c888463",
+        "email": "Cielo28@roq.tech",
+        "firstName": "Macie",
+        "lastName": "Macejkovic",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52367451",
+        "tenantId": null
+      },
+      {
+        "reference": "36969643-056a-4abe-976e-9f9a3847c6ed",
+        "email": "Cornelius_Bauch77@roq.tech",
+        "firstName": "Eugene",
+        "lastName": "Schuppe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/34.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8460cbb2-2761-4a3c-8e66-d0d920cfa033",
+        "email": "Mina_Fisher76@roq.tech",
+        "firstName": "Newell",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28742271",
+        "tenantId": null
+      },
+      {
+        "reference": "df0c5426-02b1-4897-ba0f-637f624a23bc",
+        "email": "Brenden_Pacocha@roq.tech",
+        "firstName": "Boyd",
+        "lastName": "Paucek",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36571566",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "edb70dde-2472-4018-8c9f-06694d1290ae",
+        "amount": 36136,
+        "saving_date": "2023-09-28T14:00:36.611Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-28T13:39:06.199Z",
+        "updated_at": "2023-09-29T07:06:43.052Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c8e29c5-5194-4cdf-9536-22ef5be6c620",
+        "amount": 60774,
+        "saving_date": "2023-09-28T13:59:45.891Z",
+        "purpose": "Education",
+        "created_at": "2023-09-29T07:55:23.678Z",
+        "updated_at": "2023-09-29T07:44:50.621Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b47ea27-4c02-4d8e-84c9-00a9718b3599",
+        "amount": 28325,
+        "saving_date": "2023-09-29T09:09:08.584Z",
+        "purpose": "Vacation",
+        "created_at": "2023-09-28T14:29:47.305Z",
+        "updated_at": "2023-09-28T10:52:20.584Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ba0940c-127a-482f-b99b-1f18836a0753",
+        "amount": 18651,
+        "saving_date": "2023-09-28T15:07:08.724Z",
+        "purpose": "Emergency",
+        "created_at": "2023-09-29T00:33:35.388Z",
+        "updated_at": "2023-09-29T05:20:02.095Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e244eba5-e88b-41c5-9457-ca6e5b229f5b",
+        "amount": 29933,
+        "saving_date": "2023-09-29T04:23:38.207Z",
+        "purpose": "Home",
+        "created_at": "2023-09-29T08:59:42.508Z",
+        "updated_at": "2023-09-29T08:40:10.332Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "1787b968-b2d7-44b7-a75e-4d9349647b0b",
+        "amount": 27455,
+        "source": "Salary",
+        "income_date": "2023-09-29T04:10:18.902Z",
+        "created_at": "2023-09-28T15:19:53.982Z",
+        "updated_at": "2023-09-28T23:01:16.227Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7d6e1ab-a531-489f-836a-000a7c11c862",
+        "amount": 87368,
+        "source": "Investments",
+        "income_date": "2023-09-28T18:50:51.604Z",
+        "created_at": "2023-09-29T10:20:36.964Z",
+        "updated_at": "2023-09-28T14:09:39.591Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2375617d-bd2c-4224-8225-aa8ba33eb1da",
+        "amount": 21276,
+        "source": "Freelancing",
+        "income_date": "2023-09-28T13:25:47.138Z",
+        "created_at": "2023-09-29T06:28:03.389Z",
+        "updated_at": "2023-09-29T09:44:04.164Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5e93a9d6-49ec-4688-9807-3bdbbef63940",
+        "amount": 62767,
+        "source": "Rental Property",
+        "income_date": "2023-09-28T21:20:46.581Z",
+        "created_at": "2023-09-28T20:05:21.828Z",
+        "updated_at": "2023-09-28T19:28:43.536Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bb1ad11d-db0a-40f7-b676-bf5d134b046f",
+        "amount": 1520,
+        "source": "Business",
+        "income_date": "2023-09-29T01:13:49.908Z",
+        "created_at": "2023-09-28T19:21:45.729Z",
+        "updated_at": "2023-09-29T01:30:37.932Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "cbee06cf-fa00-4109-9f42-66c570bc651f",
+        "amount": 65784,
+        "reason": "Groceries",
+        "expense_date": "2023-09-29T01:16:54.506Z",
+        "created_at": "2023-09-28T19:10:01.423Z",
+        "updated_at": "2023-09-29T01:24:38.940Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "962a9487-d9fa-48f0-b22b-5c7de3fc8e82",
+        "amount": 46647,
+        "reason": "Rent",
+        "expense_date": "2023-09-28T19:56:58.721Z",
+        "created_at": "2023-09-28T21:36:12.545Z",
+        "updated_at": "2023-09-28T16:10:40.075Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5aba3325-c3c1-4829-9ffc-1bf1d087120e",
+        "amount": 82409,
+        "reason": "Utilities",
+        "expense_date": "2023-09-29T09:50:06.149Z",
+        "created_at": "2023-09-28T12:04:12.852Z",
+        "updated_at": "2023-09-28T16:16:24.460Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "995ba227-f70d-4947-8dfe-1880e21ad881",
+        "amount": 28703,
+        "reason": "Transportation",
+        "expense_date": "2023-09-29T00:52:24.692Z",
+        "created_at": "2023-09-28T19:53:14.875Z",
+        "updated_at": "2023-09-28T20:30:51.492Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aea9aa66-3b38-44c4-993a-4c8a41277e60",
+        "amount": 60530,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-29T02:19:32.701Z",
+        "created_at": "2023-09-28T14:08:13.978Z",
+        "updated_at": "2023-09-28T19:28:15.541Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "9a82d879-5a6f-413e-9d43-4fc4477f0608",
+        "amount": 7517,
+        "start_date": "2023-09-29T00:32:44.035Z",
+        "end_date": "2023-09-28T11:23:40.858Z",
+        "created_at": "2023-09-29T02:52:03.507Z",
+        "updated_at": "2023-09-29T09:10:48.738Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5af98856-bce8-4700-96f8-6910b70da724",
+        "amount": 16718,
+        "start_date": "2023-09-29T10:23:30.539Z",
+        "end_date": "2023-09-28T15:34:42.618Z",
+        "created_at": "2023-09-28T17:11:00.936Z",
+        "updated_at": "2023-09-29T09:45:07.734Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2f4163e7-21c7-46e8-85af-2996b6eabca9",
+        "amount": 51323,
+        "start_date": "2023-09-28T18:35:38.734Z",
+        "end_date": "2023-09-28T11:03:17.279Z",
+        "created_at": "2023-09-29T04:26:28.540Z",
+        "updated_at": "2023-09-28T11:36:31.861Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "515fb2e6-ed4e-4a66-964d-8553b3f1d5f7",
+        "amount": 45749,
+        "start_date": "2023-09-29T09:57:20.260Z",
+        "end_date": "2023-09-28T18:39:12.913Z",
+        "created_at": "2023-09-28T17:50:10.027Z",
+        "updated_at": "2023-09-29T07:03:17.187Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e31def18-210d-4b09-a5d5-180490bba180",
+        "amount": 37288,
+        "start_date": "2023-09-28T19:31:34.225Z",
+        "end_date": "2023-09-28T18:16:25.878Z",
+        "created_at": "2023-09-29T10:03:46.276Z",
+        "updated_at": "2023-09-29T06:41:30.224Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c2049d54-c537-42de-a185-066f197de21b",
+        "email": "Barney28@roq.tech",
+        "firstName": "Melyna",
+        "lastName": "Littel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87877068",
+        "tenantId": null
+      },
+      {
+        "reference": "7760570e-6b1d-48c2-92ac-005cb7828125",
+        "email": "Murray41@roq.tech",
+        "firstName": "Savanna",
+        "lastName": "Boyle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/668.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0f36b9aa-434a-4126-a87c-68c5e45f3b3c",
+        "email": "Cielo_Kilback@roq.tech",
+        "firstName": "Augustine",
+        "lastName": "Bednar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59187848",
+        "tenantId": null
+      },
+      {
+        "reference": "0783ec03-684a-4801-b112-1100713d3f55",
+        "email": "Darian.Reilly92@roq.tech",
+        "firstName": "Sandrine",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85393130",
+        "tenantId": null
+      },
+      {
+        "reference": "cd077bcb-57bb-4ae5-94f5-f8898f3e6e20",
+        "email": "Velda22@roq.tech",
+        "firstName": "Elliot",
+        "lastName": "Schowalter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17789954",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "227e9c86-2bcc-4afe-adb6-68c844e80c5e",
+        "amount": 8682,
+        "saving_date": "2023-09-28T12:07:36.490Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-28T17:45:06.298Z",
+        "updated_at": "2023-09-29T08:02:28.941Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d2895c5-583c-4dd4-8117-0baeb4528a09",
+        "amount": 79002,
+        "saving_date": "2023-09-28T20:56:20.764Z",
+        "purpose": "Education",
+        "created_at": "2023-09-28T16:27:03.794Z",
+        "updated_at": "2023-09-28T18:55:17.550Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d81bbab4-5332-4a4d-b3e3-793406fd99e1",
+        "amount": 52505,
+        "saving_date": "2023-09-28T14:12:51.448Z",
+        "purpose": "Vacation",
+        "created_at": "2023-09-28T22:13:00.864Z",
+        "updated_at": "2023-09-29T03:58:57.758Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bdf6c1c5-814e-4ff4-8ad2-34a7c69ed009",
+        "amount": 54370,
+        "saving_date": "2023-09-28T21:43:28.199Z",
+        "purpose": "Emergency Fund",
+        "created_at": "2023-09-29T07:39:58.791Z",
+        "updated_at": "2023-09-29T05:49:23.712Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "27763c14-cc0e-4292-8929-90b9fe59d9fe",
+        "amount": 73586,
+        "saving_date": "2023-09-29T00:42:59.315Z",
+        "purpose": "Home Renovation",
+        "created_at": "2023-09-29T08:49:12.210Z",
+        "updated_at": "2023-09-28T23:57:31.514Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "cda9abd4-beaa-4f67-bfcd-513fcdeb1f53",
+        "amount": 87987,
+        "source": "Salary",
+        "income_date": "2023-09-28T15:17:14.449Z",
+        "created_at": "2023-09-28T13:31:25.208Z",
+        "updated_at": "2023-09-28T11:18:35.494Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7cd409c4-3f28-4652-ab47-de69497642fe",
+        "amount": 55124,
+        "source": "Business",
+        "income_date": "2023-09-29T08:27:29.665Z",
+        "created_at": "2023-09-28T22:13:43.206Z",
+        "updated_at": "2023-09-28T20:58:47.929Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0e1a39ea-0deb-4f1d-b051-308620af203d",
+        "amount": 50379,
+        "source": "Investments",
+        "income_date": "2023-09-28T18:43:00.455Z",
+        "created_at": "2023-09-28T23:09:38.148Z",
+        "updated_at": "2023-09-28T23:04:58.931Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7c2311f-786c-48fe-bb8d-09f305163b33",
+        "amount": 6239,
+        "source": "Rental Property",
+        "income_date": "2023-09-29T03:47:54.318Z",
+        "created_at": "2023-09-28T16:39:04.440Z",
+        "updated_at": "2023-09-28T23:07:26.521Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c879a0c8-bb99-459b-92a0-ccec39b55e72",
+        "amount": 4777,
+        "source": "Freelancing",
+        "income_date": "2023-09-28T13:56:29.275Z",
+        "created_at": "2023-09-28T16:38:03.759Z",
+        "updated_at": "2023-09-28T17:08:21.594Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "b52378e7-4d06-4ada-a63a-549db35e7cc1",
+        "amount": 98285,
+        "reason": "Groceries",
+        "expense_date": "2023-09-29T05:26:41.937Z",
+        "created_at": "2023-09-28T16:54:55.519Z",
+        "updated_at": "2023-09-28T18:14:51.792Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ed560e1-9e10-498d-80ce-6171058f64b0",
+        "amount": 86471,
+        "reason": "Rent",
+        "expense_date": "2023-09-29T04:59:03.487Z",
+        "created_at": "2023-09-29T08:50:23.747Z",
+        "updated_at": "2023-09-29T09:31:02.825Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9fdd21e-7948-4e4d-8404-5a44bbe1de76",
+        "amount": 509,
+        "reason": "Utilities",
+        "expense_date": "2023-09-28T13:03:50.707Z",
+        "created_at": "2023-09-28T10:35:19.159Z",
+        "updated_at": "2023-09-28T10:56:32.988Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c24e7fb5-4ca2-4a64-a9da-136b4553d9af",
+        "amount": 50147,
+        "reason": "Transportation",
+        "expense_date": "2023-09-28T19:27:15.419Z",
+        "created_at": "2023-09-28T17:13:37.911Z",
+        "updated_at": "2023-09-29T01:31:37.403Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0dd8ea6a-26f5-415b-9dde-a9a17730905e",
+        "amount": 69821,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-28T16:01:40.686Z",
+        "created_at": "2023-09-28T23:24:50.260Z",
+        "updated_at": "2023-09-28T21:56:20.890Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "856b0a88-f4e3-452f-8b04-509ec614b904",
+        "amount": 68490,
+        "start_date": "2023-09-28T23:15:08.088Z",
+        "end_date": "2023-09-28T21:59:39.373Z",
+        "created_at": "2023-09-29T03:19:52.045Z",
+        "updated_at": "2023-09-29T02:18:05.040Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a268b58-3f47-44bc-b08b-e3cbe721b44b",
+        "amount": 77753,
+        "start_date": "2023-09-29T05:59:05.959Z",
+        "end_date": "2023-09-29T05:48:59.544Z",
+        "created_at": "2023-09-28T17:24:38.688Z",
+        "updated_at": "2023-09-29T01:38:58.349Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "489dc8e4-748a-4e8c-8513-95410ec5d28b",
+        "amount": 24545,
+        "start_date": "2023-09-29T06:16:21.313Z",
+        "end_date": "2023-09-29T06:50:49.645Z",
+        "created_at": "2023-09-28T20:34:06.165Z",
+        "updated_at": "2023-09-28T15:27:11.071Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3900110-94be-4155-8005-200a055dbe71",
+        "amount": 99629,
+        "start_date": "2023-09-28T16:59:21.513Z",
+        "end_date": "2023-09-28T22:01:03.771Z",
+        "created_at": "2023-09-28T20:59:33.881Z",
+        "updated_at": "2023-09-28T20:20:28.692Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "916284af-7ff3-43c3-b288-0c32d9445303",
+        "amount": 69832,
+        "start_date": "2023-09-29T06:20:33.603Z",
+        "end_date": "2023-09-28T17:49:31.853Z",
+        "created_at": "2023-09-29T07:14:14.484Z",
+        "updated_at": "2023-09-28T20:38:19.946Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "82fb06a1-e7bb-40d1-b90f-c7a0b02ff893",
+        "email": "Bennett.Senger@roq.tech",
+        "firstName": "Nicolas",
+        "lastName": "Marquardt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51327651",
+        "tenantId": null
+      },
+      {
+        "reference": "8e8601a9-a16b-4d64-b25d-cc1b9ed01399",
+        "email": "Alvis_Marvin16@roq.tech",
+        "firstName": "Nathanael",
+        "lastName": "Labadie-Abernathy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82193266",
+        "tenantId": null
+      },
+      {
+        "reference": "78357dc7-7bfd-43ce-aa27-865c6a2bc606",
+        "email": "Jordon36@roq.tech",
+        "firstName": "Ismael",
+        "lastName": "Wolff",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48339275",
+        "tenantId": null
+      },
+      {
+        "reference": "46dc0ba6-e8f7-4b03-aaa4-3998161f7609",
+        "email": "Maegan.King@roq.tech",
+        "firstName": "Prince",
+        "lastName": "Brakus",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/29.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "65b54439-a2b5-49ef-8e23-816a43a926f7",
+        "email": "Sister_Pouros59@roq.tech",
+        "firstName": "Melody",
+        "lastName": "Rogahn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/440.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "savings": [
+      {
+        "id": "59c93add-e75a-4c91-9bb3-fadb6e63eb16",
+        "amount": 33353,
+        "saving_date": "2023-09-29T08:06:22.435Z",
+        "purpose": "Retirement",
+        "created_at": "2023-09-29T00:40:10.495Z",
+        "updated_at": "2023-09-29T09:50:57.990Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "89f183d4-9a83-4314-b45d-1f936a1effbd",
+        "amount": 64280,
+        "saving_date": "2023-09-29T01:23:36.405Z",
+        "purpose": "Education",
+        "created_at": "2023-09-28T14:09:14.363Z",
+        "updated_at": "2023-09-29T08:07:51.378Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ba101b2-c02f-437b-b04b-7290eac98263",
+        "amount": 15667,
+        "saving_date": "2023-09-28T10:59:43.057Z",
+        "purpose": "Travel",
+        "created_at": "2023-09-29T04:36:28.200Z",
+        "updated_at": "2023-09-28T22:36:36.799Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa32c718-f7c0-48ab-837a-3bd362d52eb3",
+        "amount": 12998,
+        "saving_date": "2023-09-29T08:11:08.258Z",
+        "purpose": "Emergency fund",
+        "created_at": "2023-09-29T00:26:23.214Z",
+        "updated_at": "2023-09-28T20:26:16.866Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d8596e0-a164-467f-bb47-abc697ad03cc",
+        "amount": 4573,
+        "saving_date": "2023-09-28T13:10:39.485Z",
+        "purpose": "Home renovation",
+        "created_at": "2023-09-29T05:12:39.883Z",
+        "updated_at": "2023-09-28T10:47:36.908Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "income": [
+      {
+        "id": "720bd60a-6b6b-45fe-bf2c-06c3ed87ff35",
+        "amount": 12009,
+        "source": "Salary",
+        "income_date": "2023-09-28T18:36:02.380Z",
+        "created_at": "2023-09-28T22:14:23.719Z",
+        "updated_at": "2023-09-29T05:21:00.436Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79aa3b9b-c8d5-47e1-9b49-d54d116d1ddd",
+        "amount": 887,
+        "source": "Freelancing",
+        "income_date": "2023-09-29T06:06:37.854Z",
+        "created_at": "2023-09-29T04:07:48.382Z",
+        "updated_at": "2023-09-29T07:17:47.350Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7376713f-1e4a-4381-9bbe-b4ae134aaded",
+        "amount": 49774,
+        "source": "Investments",
+        "income_date": "2023-09-28T20:01:12.854Z",
+        "created_at": "2023-09-29T06:23:46.845Z",
+        "updated_at": "2023-09-28T16:18:45.241Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "393c1fff-000e-4ac0-9c4b-618d072f37c6",
+        "amount": 2709,
+        "source": "Rental income",
+        "income_date": "2023-09-28T21:42:34.423Z",
+        "created_at": "2023-09-29T02:31:25.936Z",
+        "updated_at": "2023-09-29T07:20:40.095Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4831bb53-6f2e-4462-8a99-5910cd12a401",
+        "amount": 21877,
+        "source": "Business",
+        "income_date": "2023-09-29T06:56:11.339Z",
+        "created_at": "2023-09-28T17:37:09.538Z",
+        "updated_at": "2023-09-28T19:15:33.782Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "expense": [
+      {
+        "id": "4a7a3e9d-a925-4466-957e-83df815aeea9",
+        "amount": 96504,
+        "reason": "Groceries",
+        "expense_date": "2023-09-28T21:27:22.494Z",
+        "created_at": "2023-09-28T12:24:19.813Z",
+        "updated_at": "2023-09-28T14:21:24.832Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bba5d6e0-5a2f-4726-8dd5-6d887c0cf3fc",
+        "amount": 12315,
+        "reason": "Utilities",
+        "expense_date": "2023-09-28T23:43:41.774Z",
+        "created_at": "2023-09-29T06:12:27.077Z",
+        "updated_at": "2023-09-29T08:16:39.074Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab36f97b-6534-4730-913d-2506f846d051",
+        "amount": 99761,
+        "reason": "Transportation",
+        "expense_date": "2023-09-29T05:10:42.719Z",
+        "created_at": "2023-09-28T14:14:38.919Z",
+        "updated_at": "2023-09-28T15:53:25.657Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f13efec2-f8b6-4862-afa1-011f3f5953f7",
+        "amount": 95393,
+        "reason": "Entertainment",
+        "expense_date": "2023-09-28T21:44:29.954Z",
+        "created_at": "2023-09-28T14:47:17.859Z",
+        "updated_at": "2023-09-28T15:40:31.752Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cd9dd9f-3855-4cb9-a84e-1a5f0972af7a",
+        "amount": 776,
+        "reason": "Healthcare",
+        "expense_date": "2023-09-28T19:59:16.422Z",
+        "created_at": "2023-09-29T03:43:13.215Z",
+        "updated_at": "2023-09-29T04:58:52.451Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "budget": [
+      {
+        "id": "47c5b558-c294-423a-9a8c-c74cc4dbc152",
+        "amount": 26670,
+        "start_date": "2023-09-28T20:06:18.815Z",
+        "end_date": "2023-09-28T10:36:24.901Z",
+        "created_at": "2023-09-29T04:42:47.817Z",
+        "updated_at": "2023-09-28T11:56:15.236Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fac7b853-5562-4226-8cf7-50e6f70356d5",
+        "amount": 59352,
+        "start_date": "2023-09-28T13:15:12.543Z",
+        "end_date": "2023-09-29T01:27:19.676Z",
+        "created_at": "2023-09-28T21:49:22.231Z",
+        "updated_at": "2023-09-28T12:07:31.148Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2814f983-f299-4b89-84d5-9d201a0a7355",
+        "amount": 95679,
+        "start_date": "2023-09-28T20:54:25.185Z",
+        "end_date": "2023-09-28T12:57:41.513Z",
+        "created_at": "2023-09-28T11:31:21.040Z",
+        "updated_at": "2023-09-28T10:56:53.953Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fba15860-025d-44e3-add8-c7313e8a64fb",
+        "amount": 24188,
+        "start_date": "2023-09-29T05:16:14.691Z",
+        "end_date": "2023-09-28T21:03:52.828Z",
+        "created_at": "2023-09-28T13:53:50.385Z",
+        "updated_at": "2023-09-28T23:05:07.791Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "169e7fa3-e600-460d-99f7-f97826ed30e5",
+        "amount": 37806,
+        "start_date": "2023-09-29T09:29:13.130Z",
+        "end_date": "2023-09-28T22:08:56.522Z",
+        "created_at": "2023-09-28T22:55:42.758Z",
+        "updated_at": "2023-09-29T02:51:05.522Z",
+        "family_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cb8fe821-7b18-4066-bda8-4095071a1d4d",
+        "email": "Paxton60@roq.tech",
+        "firstName": "Skylar",
+        "lastName": "Herman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84839709",
+        "tenantId": null
+      },
+      {
+        "reference": "4ca41ee6-3402-4a74-88ec-ab0136aef7b4",
+        "email": "Maximo41@roq.tech",
+        "firstName": "Braulio",
+        "lastName": "Reichert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1221.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "44a062d9-c989-4125-bc4e-d4be72e0ace6",
+        "email": "Dorothea.Metz@roq.tech",
+        "firstName": "Brent",
+        "lastName": "Aufderhar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19801241",
+        "tenantId": null
+      },
+      {
+        "reference": "b7e8c2c9-3dee-4534-800a-0dba442b8fd9",
+        "email": "Rosalee_Gottlieb90@roq.tech",
+        "firstName": "Velma",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/551.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "63085ed5-ce4f-4e27-83b1-dd1006aa9b5e",
+        "email": "Ludie80@roq.tech",
+        "firstName": "Shania",
+        "lastName": "Willms-Ruecker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90809082",
+        "tenantId": null
+      }
+    ]
+  }
+]

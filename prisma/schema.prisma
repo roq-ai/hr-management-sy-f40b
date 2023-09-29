@@ -1,0 +1,93 @@
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["clientExtensions", "postgresqlExtensions"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  extensions      = [pgcrypto]
+}
+
+model budget {
+  id         String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  amount     Int
+  start_date DateTime @db.Timestamp(6)
+  end_date   DateTime @db.Timestamp(6)
+  user_id    String   @db.Uuid
+  family_id  String   @db.Uuid
+  created_at DateTime @default(now()) @db.Timestamp(6)
+  updated_at DateTime @default(now()) @db.Timestamp(6)
+  family     family   @relation(fields: [family_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  user       user     @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model expense {
+  id           String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  amount       Int
+  reason       String   @db.VarChar(255)
+  expense_date DateTime @db.Timestamp(6)
+  user_id      String   @db.Uuid
+  family_id    String   @db.Uuid
+  created_at   DateTime @default(now()) @db.Timestamp(6)
+  updated_at   DateTime @default(now()) @db.Timestamp(6)
+  family       family   @relation(fields: [family_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  user         user     @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model family {
+  id          String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  description String?   @db.VarChar(255)
+  name        String    @db.VarChar(255)
+  created_at  DateTime  @default(now()) @db.Timestamp(6)
+  updated_at  DateTime  @default(now()) @db.Timestamp(6)
+  user_id     String    @db.Uuid
+  tenant_id   String    @db.VarChar(255)
+  budget      budget[]
+  expense     expense[]
+  user        user      @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  income      income[]
+  savings     savings[]
+}
+
+model income {
+  id          String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  amount      Int
+  source      String   @db.VarChar(255)
+  income_date DateTime @db.Timestamp(6)
+  user_id     String   @db.Uuid
+  family_id   String   @db.Uuid
+  created_at  DateTime @default(now()) @db.Timestamp(6)
+  updated_at  DateTime @default(now()) @db.Timestamp(6)
+  family      family   @relation(fields: [family_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  user        user     @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model savings {
+  id          String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  amount      Int
+  saving_date DateTime @db.Timestamp(6)
+  purpose     String   @db.VarChar(255)
+  user_id     String   @db.Uuid
+  family_id   String   @db.Uuid
+  created_at  DateTime @default(now()) @db.Timestamp(6)
+  updated_at  DateTime @default(now()) @db.Timestamp(6)
+  family      family   @relation(fields: [family_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  user        user     @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model user {
+  id          String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  email       String    @unique @db.VarChar(255)
+  firstName   String?   @db.VarChar(255)
+  lastName    String?   @db.VarChar(255)
+  roq_user_id String    @db.VarChar(255)
+  tenant_id   String    @db.VarChar(255)
+  created_at  DateTime  @default(now()) @db.Timestamp(6)
+  updated_at  DateTime  @default(now()) @db.Timestamp(6)
+  budget      budget[]
+  expense     expense[]
+  family      family[]
+  income      income[]
+  savings     savings[]
+}
